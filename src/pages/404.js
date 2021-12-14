@@ -10,7 +10,7 @@ const NotFound = () => {
                 <img src={PageNotFound} alt="404 error" />
             </figure>
             <div className="container mainSpacing">
-                <h1>404: Page Not Found</h1>
+                <h1>404: Sorry! The Page You'ra Looking For Is Not Found</h1>
                 <p>
                     <Link to="/">Go to main Page</Link>
                 </p>
